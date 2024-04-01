@@ -1,0 +1,129 @@
+.box1{
+    
+    margin-top: 200px;
+    margin-left: 68px;
+    overflow-wrap: break-word;
+    font-family: sans-serif;
+    font-size: 68px;
+
+    
+  
+}
+
+.button-container {
+    display: flex;
+}
+
+.styled-button {
+    background-color: #3a0560; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 68px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.styled-button:hover {
+    background-color: #5945a0; /* Darker Green */
+}
+
+.boximage{
+    margin-left: 68px;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+.blueclass{
+    background-color: rgb(219, 236, 250); 
+    padding: 1px; 
+    padding-bottom: 30px;
+}
+
+.box3{
+    font-size: 28px; 
+    text-align: 
+    center; padding-top: 
+    150px;
+    font-family: serif;
+}
+
+.icon1{
+    text-align: center; 
+    padding-top: 50px;
+}
+
+
+
+
+
+
+a {
+    color: rgb(0, 0, 6); /* linkning rangi */
+    text-decoration: none; /* link ostida chiziqni o'chirish */
+    font-weight: bold; /* matnning kalinligi */
+    margin-left: 68px;
+    font-size: 16px;
+  }
+
+  /* Linkga maus bilan o'tilganda o'zgaruvchi stilini belgilash */
+  a:hover {
+    text-decoration: underline; /* linkga mausni o'tganda chiziqni chizish */
+    color: darkblue; /* link rangini o'zgartirish */
+  }
+
+
+  .card1{
+    margin-top: 20px;
+    width: 10%;
+    height: 18px;
+    margin-left: 50px;
+    margin-bottom: 420px;
+  }
+
+  .column{
+    font-size: 24px; 
+    margin-left: 68px; 
+    margin-top: 150px
+
+  }
+
+  .n1{
+    margin-right: 15px;
+    margin-top: 40px;
+    padding: 20px;
+    background-color:rgba(246, 246, 248, 1);
+    border-radius: 9px;
+    width: 339px;
+    height: 316px;
+  }
+
+  .oq{
+    margin-left: 68px;
+    font-size: 24px;
+    color: #fff;
+    margin-top: 160px;
+  }
+
+
+  
+  .oq2{
+    margin-left: 68px;
+    font-size: 24px;
+    color: 
+    rgba(255, 255, 255, 0.6);
+    margin-bottom: 50px;
+  
+  }
+
+  .partner-text >div{
+    width: 560px;
+  }
+  
+  .flex{
+    display: flex;
+  }
